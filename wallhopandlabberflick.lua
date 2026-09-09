@@ -1,3 +1,4 @@
+-- if you modify this, give me credits :D
 -- FRAZX MOVEMENT TOOLS - EXPANDED BUILD
 -- Made by frazx | discord: frazx_official
 -- Wallhop filters, R6 wallclips, experimental glitches, profiles, debug tools
